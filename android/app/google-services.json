@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "964940426884",
+    "project_id": "medistoris-1dba2",
+    "storage_bucket": "medistoris-1dba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964940426884:android:01642d8e35d440f8d11cd1",
+        "android_client_info": {
+          "package_name": "com.medistoris.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964940426884-n3j5h61859lvjoub4h9hq7s8u8in8huk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medistoris.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "964940426884-e18dsdv6f6j6cafgohnoi9lcmkvcln02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBofF7yNPTKDbcSOMaRwsrnU8d2D1U2bFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964940426884-e18dsdv6f6j6cafgohnoi9lcmkvcln02.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "964940426884-4eur9cr5llfma37hm50us70mhmctp52n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.medistoris.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
