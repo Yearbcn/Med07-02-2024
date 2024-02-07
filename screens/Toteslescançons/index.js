@@ -97,7 +97,7 @@ const TotalSongs = ({navigation}) => {
                         fontWeight: '500',
                         marginLeft: 50,
                     }}>
-                    Tots els àudios
+                    Cultura Catalana
                 </Text>
             </View>
 
